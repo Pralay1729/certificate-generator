@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1651993267970,
+        "fname": "Jone",
+        "lname": "Doe",
+        "course": "Python with Django Framework"
+    },
+
+    {
+        "id": 1651993268888,
+        "fname": "Mark",
+        "lname": "Thornton",
+        "course": "C Programming Basic to Advanced"
+    },
+    {
+        "id": 1651993269591,
+        "fname": "Pralay",
+        "lname": "Ghosh",
+        "course": "JavaScript ES6(also known as ECMAScript 2015)"
+    }
+
+]

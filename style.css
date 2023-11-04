@@ -1,0 +1,41 @@
+.body-wrap .header .navbar-brand{
+    line-height: .9;
+    padding-left: 55px;
+    cursor: pointer;
+}
+.body-wrap .header .navbar-brand img{
+    position: absolute;
+    left: 15px;
+    top: 6px;
+}
+.body-wrap .header .navbar-brand span{
+    font-size: 12px;
+}
+.logout-btn{
+    cursor: pointer;
+}
+.cirtificate-body .h1{
+    font-family: cursive;
+}
+.cirtificate-footer .h4{
+    font-family: cursive;
+}
+.login-form{
+    margin: 8% 27% 0% 27%;
+}
+.cirtificate-footer .logo-label{
+    position: relative;
+    top: 10px;
+}
+
+@media print{
+    .cirtificate-print-btn{
+        display: none;
+    }
+    .container{
+        width: 100% !important;
+    }
+    @page {
+        size: landscape !important;
+    }
+}
